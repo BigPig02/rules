@@ -219,3 +219,5 @@ us.nanflix.net
 web-starharn.nebula-media.org
 web.nebula-media.org
 z.sfcj.org
+nano.jmsuper.com
+emby.syemby.com
